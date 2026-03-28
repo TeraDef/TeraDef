@@ -28,7 +28,7 @@ To democratize cybersecurity by providing cutting-edge threat protection to unde
 
 ## ✨ Key Features
 
-- 🌍 **6 Languages:** English, Spanish, French, Hindi, Indonesian, Arabic
+- 🌍 **Multilingual Support:** Full guides in English, Indonesian, Portuguese (Brazil); UI available in Spanish, French, Hindi, and Arabic
 - 🆓 **100% Free:** No account required, no hidden costs
 - 🤖 **AI-Powered:** Machine learning-driven threat detection
 - 🔒 **Privacy-First:** No data collection or tracking
@@ -112,7 +112,7 @@ Interested in contributing? Check out our:
 
 ## 📈 Project Status
 
-**Current Version:** 1.0.0 (Beta)
+**Current Version:** 1.3
 **Status:** Active Development
 **Roadmap:** [View our roadmap](ROADMAP.md)
 
