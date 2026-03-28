@@ -1,4 +1,4 @@
-# TeraDef 🛡️ - Free AI-Powered Cybersecurity for Underserved Organizations
+# TeraDef - Free AI-Powered Cybersecurity for Underserved Organizations
 
 **Secure your organization from cyber threats with TeraDef's intelligent, accessible security platform.**
 
