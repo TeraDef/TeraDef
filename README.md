@@ -126,7 +126,7 @@ TeraDef is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## 👥 Built By
 
-**[Chintan Tailor](https://github.com/chintanpage)** — SOC Analyst & Cybersecurity Professional
+**[Chintan Tailor](https://github.com/chintanpage)** - SOC Analyst & Cybersecurity Professional
 
 ---
 
